@@ -4,11 +4,6 @@
 
 2. create a google sheet(This is destination data) with three columns(city,IATA code,Lowest Price). Lowest price is the value you intend to track to get allert when flight price is lower than this.
 leave IATA code blank, this will be populated by the program. Name the google sheet tab "prices"
-City	        IATA Code	Lowest Price
-Dar Es Salaam		        5000
-Cape Town	    	        2000
-Paris	                	20000
-Perth	                 	20000
 
 3. Sign in to sheety using your google account and create a new project in sheety - can call it Flight Deals - 
 
